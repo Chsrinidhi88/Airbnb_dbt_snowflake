@@ -2,6 +2,25 @@
 
 This project involves setting up a data pipeline using dbt (Data Build Tool) and Snowflake to analyze Airbnb data, with a specific focus on understanding how full moon dates affect Airbnb listings, reviews, and hosts. The project also integrates data quality checks and orchestration using Apache Airflow.
 
+<img width="347" alt="image" src="https://github.com/Chsrinidhi88/Airbnb_dbt_snowflake/assets/34069596/29b8e7db-5c94-4e1e-a66a-9c75ba71d515">
+
+
+<img width="905" alt="image" src="https://github.com/Chsrinidhi88/Airbnb_dbt_snowflake/assets/34069596/0849cedb-bd0b-41ed-9838-c2b40ca065ad">
+
+
+<img width="313" alt="image" src="https://github.com/Chsrinidhi88/Airbnb_dbt_snowflake/assets/34069596/4fc3e431-5ca4-40a6-a53a-91dfd672e4d1">
+
+<img width="312" alt="image" src="https://github.com/Chsrinidhi88/Airbnb_dbt_snowflake/assets/34069596/f04eebe7-9d6e-4ed7-bb3a-cd2644f748d1">
+
+<img width="316" alt="image" src="https://github.com/Chsrinidhi88/Airbnb_dbt_snowflake/assets/34069596/265ba03e-3ce1-40b8-b387-2e0c599c65cd">
+
+
+
+
+
+
+
+
 ### Environment Setup
 
 1. **Install Python 3.10**
